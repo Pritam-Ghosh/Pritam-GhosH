@@ -1,5 +1,5 @@
-## Hello World!
-
+## Hi I am Pritam!
+Welcome to my GitHub profile!
 <!--
 **Pritam-Ghosh/Pritam-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
